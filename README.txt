@@ -6,3 +6,4 @@ Adding Feature1
 This is Feature2 
 New features in Feature2
 Hello, again
+Updating README with new information
