@@ -7,3 +7,4 @@ This is Feature2
 New features in Feature2
 Hello, again
 Updating README with new information
+Committing from an alternate location
