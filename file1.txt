@@ -1,3 +1,0 @@
-Adding some code here
-
-THis is a new file file1 in feature3
